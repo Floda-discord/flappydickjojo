@@ -1,14 +1,14 @@
 {
-  "name": "clumsy-bird",
+  "name": "Flappy DickJojo",
   "version": "0.1.0",
-  "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
-  "homepage": "http://ellisonleao.github.io/clumsy-bird/",
+  "description": "Flappy DickJojo - A DickJojo version of the famous Flappy Bird game",
+  "homepage": "https://floda-discord.github.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellisonleao/clumsy-bird"
+    "url": "https://github.com/Floda-discord/floda-discord.github.io"
   },
   "bugs": {
-    "url": "https://github.com/ellisonleao/clumsy-bird/issues"
+    "url": "https://github.com/Floda-discord/floda-discord.github.io/issues"
   },
   "licenses": [
     {
