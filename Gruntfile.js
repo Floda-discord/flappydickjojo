@@ -1,4 +1,4 @@
-/*global module:false*/
+/*global module:false*/ 
 module.exports = function(grunt) {
     var sourceFiles = [
         'js/game.js',
@@ -18,7 +18,7 @@ module.exports = function(grunt) {
             },
             dist: {
                 files: {
-                    'build/clumsy-min.js': [
+                    'build\clumsy-min.js': [
                         sourceFiles
                     ]
                 }
@@ -55,7 +55,7 @@ module.exports = function(grunt) {
 
         clean: {
             dist: [
-                'build/clumsy-min.js'
+                'build\clumsy-min.js'
             ],
         },
 
