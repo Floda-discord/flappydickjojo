@@ -1,11 +1,11 @@
-Clumsy Bird
+Flappy DickJojo
 ===========
 
 A MelonJS made "Flappy Bird" clone.
 
-![](http://i.imgur.com/Slbvt65.png)
+![](https://imgur.com/KwJyNLV)
 
-Play online at http://ellisonleao.github.io/clumsy-bird/
+Play online at https://floda-discord.github.io/
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ellisonleao/clumsy-bird/tree/gh-pages)
 
