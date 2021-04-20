@@ -3,7 +3,7 @@ Flappy DickJojo
 
 A MelonJS made "Flappy Bird" clone.
 
-![](https://imgur.com/KwJyNLV)
+![](https://imgur.com/a/vC3RTfc)
 
 Play online at https://floda-discord.github.io/
 
